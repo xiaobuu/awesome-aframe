@@ -89,6 +89,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [aframe-react-starter](https://github.com/fouad/aframe-react-starter)
 - [React + Redux Demo (incl. switching between 2d and 3d)](https://github.com/RSpace/aframe-meetup-example)
 - [React + TweenMax Demo](http://codepen.io/cheapsteak/pen/pgbdGa?editors=001) (by [@cheapsteak])
+- [react-redux-aframe-boilerplate](https://github.com/HeartRunner/react-redux-aframe-boilerplate)
 
 ### Scenes
 
